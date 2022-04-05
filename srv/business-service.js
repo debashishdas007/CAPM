@@ -6,5 +6,6 @@ module.exports = cds.service.impl(async function() {
         // const query = req.query        
         // return bp.emit ({ query, headers: { APIKey: process.env.APIkey } })    
         // New changes
+        // from BAS
     });
 });
